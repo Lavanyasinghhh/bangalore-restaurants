@@ -4,8 +4,6 @@ An end-to-end analysis of around 12,000 restaurants listed on Zomato in Bangalor
 
 This extends a university project where I analysed the same data and presented it in Tableau. Here I've restructured the code into reusable modules, added statistical tests and a prediction model, and built the dashboard in Python.
 
-<!-- After running the report: add a dashboard screenshot here, e.g. ![Dashboard](reports/figures/dashboard.png) -->
-
 ## Business questions
 
 1. Does offering **online ordering** or **table booking** go with better ratings?
@@ -13,19 +11,6 @@ This extends a university project where I analysed the same data and presented i
 3. Do more **expensive** restaurants get better ratings?
 4. Can we **predict** whether a restaurant will be rated 4.0+ from its basic attributes?
 5. Where are the **gaps**: area and cuisine combinations with engaged customers but few competitors?
-
-## Key findings
-
-<!-- Fill in from reports/findings.md after running `python scripts/make_report.py`. -->
-
-- _Online ordering: ..._
-- _Table booking: ..._
-- _Price vs rating: ..._
-- _Rating model: ROC-AUC of ... on a held-out test set; most important features were ..._
-- _Biggest opportunity: ..._
-
-![Share rated 4.0+ by price](reports/figures/05_price_vs_rating.png)
-![Feature importance](reports/figures/06_feature_importance.png)
 
 ## Approach
 
