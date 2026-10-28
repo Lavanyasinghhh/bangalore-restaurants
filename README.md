@@ -1,5 +1,7 @@
 # What makes a restaurant succeed in Bangalore?
 
+[![tests](https://github.com/Lavanyasinghhh/bangalore-restaurants/actions/workflows/tests.yml/badge.svg)](https://github.com/Lavanyasinghhh/bangalore-restaurants/actions/workflows/tests.yml)
+
 An end-to-end analysis of around 12,000 restaurants listed on Zomato in Bangalore. It covers data cleaning, exploratory analysis, statistical testing, a rating-prediction model, and an interactive Streamlit dashboard for exploring the market.
 
 This extends a university project where I analysed the same data and presented it in Tableau. Here I've restructured the code into reusable modules, added statistical tests and a prediction model, and built the dashboard in Python.
